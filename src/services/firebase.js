@@ -5,12 +5,13 @@ import "firebase/storage"
 
 // Firebase Configs
 const firebaseConfig = {
-  apiKey: "AIzaSyCNexJ7p00a9cCe_NCvlN0CfFw7xx0_-kc",
-  authDomain: "chat-room-18213.firebaseapp.com",
-  projectId: "chat-room-18213",
-  storageBucket: "chat-room-18213.appspot.com",
-  messagingSenderId: "637500390783",
-  appId: "1:637500390783:web:d99c8fec19a075a2b8ee4a",
+  apiKey: "AIzaSyBH61sLZOeC7xjibPDP2rkj3S7fe-a0ubw",
+  authDomain: "ccbycc-j.firebaseapp.com",
+  projectId: "ccbycc-j",
+  storageBucket: "ccbycc-j.appspot.com",
+  messagingSenderId: "273858952854",
+  appId: "1:273858952854:web:9f9562d858014d73cb0cb7",
+  measurementId: "G-KEMR0GGXKM"
 };
 
 // Checking if app already initialize then don't initialize again
