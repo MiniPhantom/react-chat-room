@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "unprivate-c",
   storageBucket: "unprivate-c.appspot.com",
   messagingSenderId: "37666053133",
-  appId: "1:37666053133:web:2b105143e52e24314b8944"
+  appId: "1:37666053133:web:2b105143e52e24314b8944",
   measurementId: "G-KEMR0GGXKM"
 };
 
