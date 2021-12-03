@@ -5,12 +5,12 @@ import "firebase/storage"
 
 // Firebase Configs
 const firebaseConfig = {
-  apiKey: "AIzaSyCN1xSBYT3LZouU6_kXgZgVk2OG9Pd5T7E",
-  authDomain: "auth.coapw.org",
-  projectId: "unprivate-c",
-  storageBucket: "unprivate-c.appspot.com",
-  messagingSenderId: "37666053133",
-  appId: "1:37666053133:web:2b105143e52e24314b8944",
+  apiKey: "AIzaSyBH61sLZOeC7xjibPDP2rkj3S7fe-a0ubw",
+  authDomain: "facetime.jtlr.tech",
+  projectId: "ccbycc-j",
+  storageBucket: "ccbycc-j.appspot.com",
+  messagingSenderId: "273858952854",
+  appId: "1:273858952854:web:9f9562d858014d73cb0cb7",
   measurementId: "G-KEMR0GGXKM"
 };
 
