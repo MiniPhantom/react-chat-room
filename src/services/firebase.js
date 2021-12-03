@@ -6,7 +6,7 @@ import "firebase/storage"
 // Firebase Configs
 const firebaseConfig = {
   apiKey: "AIzaSyCN1xSBYT3LZouU6_kXgZgVk2OG9Pd5T7E",
-  authDomain: "unprivate-c.firebaseapp.com",
+  authDomain: "auth.coapw.org",
   projectId: "unprivate-c",
   storageBucket: "unprivate-c.appspot.com",
   messagingSenderId: "37666053133",
