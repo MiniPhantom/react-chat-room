@@ -7,8 +7,8 @@ import "firebase/storage"
 const firebaseConfig = {
   apiKey: "AIzaSyBH61sLZOeC7xjibPDP2rkj3S7fe-a0ubw",
   authDomain: "facetime.jtlr.tech",
-  projectId: "ccbycc-j",
-  storageBucket: "ccbycc-j.appspot.com",
+  projectId: "chatroom-api-key-test-1",
+  storageBucket: "chatroom-api-key-test-1.appspot.com",
   messagingSenderId: "273858952854",
   appId: "1:273858952854:web:9f9562d858014d73cb0cb7",
   measurementId: "G-KEMR0GGXKM"
