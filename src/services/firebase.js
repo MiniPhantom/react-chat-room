@@ -5,7 +5,7 @@ import "firebase/storage"
 
 // Firebase Configs
 const firebaseConfig = {
-  apiKey: "AIzaSyBH61sLZOeC7xjibPDP2rkj3S7fe-a0ubw",
+  apiKey: "AIzaSyCuVqKpS1piBst2KR_jT-j5R5vjHJc2Lds",
   authDomain: "facetime.jtlr.tech",
   projectId: "chatroom-api-key-test-1",
   storageBucket: "chatroom-api-key-test-1.appspot.com",
