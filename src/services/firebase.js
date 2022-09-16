@@ -9,7 +9,7 @@ const firebaseConfig = {
   authDomain: "facetime.jtlr.tech",
   projectId: "chatroom-api-key-test-1",
   storageBucket: "chatroom-api-key-test-1.appspot.com",
-  messagingSenderId: "273858952854",
+  messagingSenderId: "1076786971919",
   appId: "1:273858952854:web:9f9562d858014d73cb0cb7",
   measurementId: "G-KEMR0GGXKM"
 };
