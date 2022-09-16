@@ -6,12 +6,11 @@ import "firebase/storage"
 // Firebase Configs
 const firebaseConfig = {
   apiKey: "AIzaSyCuVqKpS1piBst2KR_jT-j5R5vjHJc2Lds",
-  authDomain: "facetime.jtlr.tech",
+  authDomain: "chatroom-api-key-test-1.firebaseapp.com",
   projectId: "chatroom-api-key-test-1",
   storageBucket: "chatroom-api-key-test-1.appspot.com",
   messagingSenderId: "1076786971919",
-  appId: "1:273858952854:web:9f9562d858014d73cb0cb7",
-  measurementId: "G-KEMR0GGXKM"
+  appId: "1:1076786971919:web:4da1be4a056a9d9a366a7a"
 };
 
 // Checking if app already initialize then don't initialize again
